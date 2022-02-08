@@ -1,5 +1,5 @@
 
-#tether_model
+# tether_model
 Comparison between a rule-based approach and a DNN approach for USDT-based cryptocurrency algorithmic trading strategy with a vectorized backtest
 To run:
 - install requirements.txt	
